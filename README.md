@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @cakirosman
-- 👀 I’m interested in game developing, data analyzing and writing blog about things that i enjoy doing in a regular day.
+- 👀 I’m interested in game developing, data analyzing and writing blog about electricty that i enjoy doing in a regular day.
 - 🌱 I’m currently learning C# programming, game development.
 - 📫 How to reach me: e-mail: cakir8osman@outlook.com
